@@ -1,3 +1,8 @@
+http://api.openweathermap.org/data/2.5/weather?q=Mumbai,IN&appid=82af4295b345889c281640e43c8d0862
+
+appid is refer to the api key which is provided by the openweathermap.org while you sign up.
+
+
 https://www.epochconverter.com/timezones?q=1542676719&tz=Asia%2FKolkata
 
 to convert timestamp into the date [you need time zone to get proper date]
